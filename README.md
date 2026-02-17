@@ -72,7 +72,6 @@ By the end of this lab, you will be able to:
 - Security scanning integration
 
 ## Prerequisites
-
 - Cursor IDE installed and configured
 - Git and GitHub account
 - Docker Desktop
